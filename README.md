@@ -2,9 +2,9 @@
 
 ### vscode 에서 실행시키는 방법
 
-# npm install
+### npm install
 
-# npm start 
+### npm start 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
