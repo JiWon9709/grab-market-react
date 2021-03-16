@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Create React App by inflearn 강의
+
+### vscode 에서 실행시키는 방법
+
+# npm install
+
+# npm start 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
